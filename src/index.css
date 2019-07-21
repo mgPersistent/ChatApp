@@ -11,3 +11,21 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.card{
+  margin-top:50px;
+  width: 500px;
+}
+
+.textField{
+  width: 100%;
+}
+
+.card-content{
+  max-height: 300px;
+  overflow: auto;
+}
+
+html{
+  background-image: url('1.jpg');
+}
